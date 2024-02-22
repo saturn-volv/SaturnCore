@@ -1,0 +1,4 @@
+name: SaturnBlocks
+version: '0.0.1'
+main: com.github.saturnvolv.saturnblocks.SaturnBlocks
+api-version: '1.20'
